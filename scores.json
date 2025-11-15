@@ -1,0 +1,47 @@
+[
+  {
+    "username": "adrian",
+    "mode": "Easy",
+    "level": 1,
+    "score": 950000,
+    "accuracy": 0.92,
+    "max_combo": 120,
+    "timestamp": "2025-11-10T10:00:00"
+  },
+  {
+    "username": "david",
+    "mode": "Hard",
+    "level": 3,
+    "score": 700000,
+    "accuracy": 0.85,
+    "max_combo": 80,
+    "timestamp": "2025-11-11T15:30:00"
+  },
+  {
+    "username": "john",
+    "mode": "Regular",
+    "level": 2,
+    "score": 880000,
+    "accuracy": 0.9,
+    "max_combo": 95,
+    "timestamp": "2025-11-09T09:15:00"
+  },
+  {
+    "username": "keiji",
+    "mode": "Easy",
+    "level": 1,
+    "score": 910000,
+    "accuracy": 0.89,
+    "max_combo": 110,
+    "timestamp": "2025-11-08T13:45:00"
+  },
+  {
+    "username": "adrian",
+    "mode": "Hard",
+    "level": 3,
+    "score": 700000,
+    "accuracy": 0.85,
+    "max_combo": 80,
+    "timestamp": "2025-11-09T15:00:00"
+  }
+]
