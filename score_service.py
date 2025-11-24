@@ -75,9 +75,7 @@ def get_user_scores(username):
 
 @app.get("/scores/<username>/<mode>")
 def get_scores_by_mode(username, mode):
-    """
-    Return all scores for a given user filtered by difficulty mode.
-    """
+    """Return all scores for a given user filtered by difficulty mode."""
     # Normalize mode (e.g. "easy", "E", "slow" → "Easy").
     normalized = normalize_mode(mode)
     
