@@ -23,7 +23,7 @@ def load_scores():
     return []
 
 
-# Loads an in-memory copy of scores for the microservice to use.
+
 scores = load_scores()
 
 
